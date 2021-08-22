@@ -1,4 +1,10 @@
+
 my fav food is 
 biryani
 salmon steak
 russian salad
+
+git add fav movies
+tarezameenpar
+3 idiots
+helenkeller
